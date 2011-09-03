@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  mapcell_id: 
+  type: 1
+  image_url: MyString
+
+two:
+  mapcell_id: 
+  type: 1
+  image_url: MyString

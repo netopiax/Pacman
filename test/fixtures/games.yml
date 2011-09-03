@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  game_id: 
+  name: MyString
+  start_time: 2011-09-02 15:59:28
+  pellet_time: 2011-09-02 15:59:28
+
+two:
+  game_id: 
+  name: MyString
+  start_time: 2011-09-02 15:59:28
+  pellet_time: 2011-09-02 15:59:28
